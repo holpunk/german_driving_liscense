@@ -1,0 +1,4 @@
+before st cross. 50
+front of st cross 5
+before or after bus or tram : 15
+max time allowed to stop at bus stop provided you do not present an obstruction to buses : 3 minutes
