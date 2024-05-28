@@ -1,4 +1,45 @@
-before st cross. 50
-front of st cross 5
-before or after bus or tram : 15
+st andrews cross in build up = 5 meters
+st andrews cross outside build up area = 50
+park before and after bus or tram stop = 15
+park on righ side minimum distance between your vehicle and solid lane = 3m
+
 max time allowed to stop at bus stop provided you do not present an obstruction to buses : 3 minutes
+park on right edge of street. no cycle path on right. how many meters before and after : 5
+park on carriageway. cycle path alongside how many meters before or after junction prohibited : 8
+
+from what height loads project upto 50 cm = 2,50m
+very narrow road and can see 50m ahead : max stopping distance = 25m
+min safety distance from ahead when 100kmh = 50m
+sufficient distance from car in fromt so that overtaking vehicle may pull in = 7m
+outside buildup area length must you maintain a large enough distance to vehicle ahead as to allow overtaking car to pull back in = 7m
+you 100 other vehicle 70 overtaken vehicle distance for overtaking manoeuvre = 800m
+which vehicle may choose lane = upto 3.5t
+max allowed height above roadway for red light marking a load extending to the back : 1.5m
+upto what height is a load may not allowed to project over front of the vehicle : 2.5m
+protrude = 1.5m
+permissible minimum tread depth of main tread of vehicle tyres = 1.6
+
+
+minimum distance vehicle must leave clear in front of traffic lights = 10m
+
+max speed you are allowed to drive a car with trailer outside of build up areas: 80
+foggy conditions: visibility 50m = 50kmh
+max speed you are allowed to drive a car on roads with one marked lane for each = 100Kmh
+motor vehicle with 3.5t max authorized mass and a trailer without 100Km/h approval = 80 Kmh
+recommended speed at autobahn = 130kmh
+
+narrow road 50m = stopping distance = 25 meters
+
+
+double the speed  = 4 times braking distance
+distance in meters a motor vehicle travels in one second   = *3
+braking distance in meters when braking normally = 10 * 10
+rear reflectors without projection market being necessary = 1m
+100 kmh and reaction time of 1 and brake normally. what is stopping distance according to rule of thumb = 130
+you are driving at the 100 kmh what is bracking distance = 100
+
+use autobahn what max speed must be entered in registration certificate part 1 = 60
+max speed in build up areas = 50
+
+outside buildup overtake cycle or pedestrians what minimum space = 2m
+in buildup overtake cycle or pedestrians what minimum distance = 1.5m
